@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------
+A simpleperf client connecting to server 10.0.5.2, port 8088
+---------------------------------------------------------------------------
+
+Client connected with 10.0.5.2 port 8088
+Client connected with 10.0.5.2 port 8088
+
+ID                   Interval        Transfer        Bandwidth
+
+10.0.0.2:45336       0.0 - 26.0      29 MB           8.76 Mbps
+10.0.0.2:45350       0.0 - 26.0      26 MB           7.94 Mbps
